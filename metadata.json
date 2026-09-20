@@ -1,0 +1,10 @@
+{
+  "name": "Plant Veda - Ayurvedic Medicinal Plant Identification",
+  "description": "AI-powered academic research web application for identifying Ayurvedic medicinal plants from leaf and plant images with comprehensive traditional Ayurvedic knowledge.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
